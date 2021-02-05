@@ -1,0 +1,12 @@
+{
+  "name": "devchat",
+  "displayName": "devchat",
+  "expo": {
+    "name": "devchat",
+    "slug": "devchat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
